@@ -1,0 +1,602 @@
+[
+    {
+        "text": "We're into the second quarter of 2022, and Samsung has already launched a bunch of smartphones ranging from budget to the flagship category.",
+        "start": 370,
+        "end": 8434,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8338488936424255,
+        "speaker": null
+    },
+    {
+        "text": "Some of the 2022 refreshes so far have been fairly impressive, like the Galaxy 53 and even the Galaxy 833 to some extent.",
+        "start": 8602,
+        "end": 17650,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9821879267692566,
+        "speaker": null
+    },
+    {
+        "text": "But you could probably just tell by looking at the specs that the Galaxy 823 that I have with me is not a good phone for the price at Rs32,000 here in Nepal or Rs19,500 in India for the 6.28 variant, this is easily one of the most overpriced phones in its price bracket right now.",
+        "start": 17830,
+        "end": 38382,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8376488089561462,
+        "speaker": null
+    },
+    {
+        "text": "I mean, there are so many better alternatives available that I find it to be an entirely unnecessary product.",
+        "start": 38516,
+        "end": 45690,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6680110692977905,
+        "speaker": null
+    },
+    {
+        "text": "Even Samsung's own Galaxy S 23 5G looks like a much superior phone, while being a couple of bucks cheaper.",
+        "start": 45800,
+        "end": 52918,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9677053689956665,
+        "speaker": null
+    },
+    {
+        "text": "The one aspect where the 823 might seem like the better of the two, at least on paper, is the cameras.",
+        "start": 53074,
+        "end": 59554,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6223061084747314,
+        "speaker": null
+    },
+    {
+        "text": "But when we compared the camera system of these two phones, we found that the F 23 delivers better results in most cases.",
+        "start": 59662,
+        "end": 66706,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7463542222976685,
+        "speaker": null
+    },
+    {
+        "text": "Starting with the normal daytime shots, the F 23 captures sharper images with much better color processing in almost every instance.",
+        "start": 66838,
+        "end": 74950,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9060755968093872,
+        "speaker": null
+    },
+    {
+        "text": "Be it HDR optimization on contrast levels or white balance, the F 23 does it better.",
+        "start": 75130,
+        "end": 81834,
+        "sentiment": "POSITIVE",
+        "confidence": 0.699049711227417,
+        "speaker": null
+    },
+    {
+        "text": "It's the same with ultra wide angle shots as well.",
+        "start": 81992,
+        "end": 84786,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8658540844917297,
+        "speaker": null
+    },
+    {
+        "text": "In portraits.",
+        "start": 84908,
+        "end": 85714,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7461861371994019,
+        "speaker": null
+    },
+    {
+        "text": "I am more fond of how the F 23 handles background bouquet skintone looks a bit washed out from the Galaxy 823 with a hint of reddish tint, whereas the F 23 slightly warmer color does look somewhat better.",
+        "start": 85762,
+        "end": 98694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.942992627620697,
+        "speaker": null
+    },
+    {
+        "text": "But when it comes to selfies, there is no clear winner between the phones.",
+        "start": 98852,
+        "end": 102946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5364978909492493,
+        "speaker": null
+    },
+    {
+        "text": "Sometimes the A 23 takes better selfies with nicer skin tone, while the F 23 captures more pleasant images with better sharpness and dynamic range in some cases.",
+        "start": 103078,
+        "end": 113146,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8995664119720459,
+        "speaker": null
+    },
+    {
+        "text": "Then again, Galaxy A 23 Ois does come in handy under low light conditions.",
+        "start": 113278,
+        "end": 118570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8675733804702759,
+        "speaker": null
+    },
+    {
+        "text": "As you can see, the phone captures sharper nighttime images with noticeably less noise in most cases.",
+        "start": 118690,
+        "end": 124570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7939812541007996,
+        "speaker": null
+    },
+    {
+        "text": "When turning on night mode, the F 23 turns up exposure to some degree, but they're relatively greener in comparison.",
+        "start": 124690,
+        "end": 132322,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6168133020401001,
+        "speaker": null
+    },
+    {
+        "text": "About the videos Samsung's official product page for the Galaxy 23 mentions that the phone can record up to FPS, but there is no 4K recording options in our unit, whereas we also know that the Snapdragon 680 caps out at 60 FPS videos, so it's most likely a typo on Samsung's part or maybe 4K recording is arriving with a future update.",
+        "start": 132466,
+        "end": 155734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6067027449607849,
+        "speaker": null
+    },
+    {
+        "text": "I cannot tell exactly.",
+        "start": 155842,
+        "end": 157220,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6317439079284668,
+        "speaker": null
+    },
+    {
+        "text": "As of now, the A 23 cannot record beyond ATP 30 FPS, where the video comes off too robly compared to the Galaxy F 23.",
+        "start": 157910,
+        "end": 166602,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6436994075775146,
+        "speaker": null
+    },
+    {
+        "text": "Next up, the Galaxy 823 disappoints in the display department as well.",
+        "start": 166736,
+        "end": 170886,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8013540506362915,
+        "speaker": null
+    },
+    {
+        "text": "While last year Galaxy 824 G featured a 90 Hz super AMOLED screen, this one has a 90 Hz TFT panel for some reason.",
+        "start": 171008,
+        "end": 179622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7112725377082825,
+        "speaker": null
+    },
+    {
+        "text": "Yes.",
+        "start": 179816,
+        "end": 180246,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4610389769077301,
+        "speaker": null
+    },
+    {
+        "text": "Samsung has bumped the resolution from HD to full HD this time.",
+        "start": 180308,
+        "end": 183726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6597339510917664,
+        "speaker": null
+    },
+    {
+        "text": "But that's nothing other brands have been offering a 120 Hz full HD Super AMOLED display in this price category since last year.",
+        "start": 183788,
+        "end": 192498,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7064831852912903,
+        "speaker": null
+    },
+    {
+        "text": "And as expected.",
+        "start": 192644,
+        "end": 194158,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6275653839111328,
+        "speaker": null
+    },
+    {
+        "text": "The Galaxy A 23 screen looks as dull as you'd expect it's narrower color gamut means contents don't look nearly as vibrant or lively as they would on an OLED panel.",
+        "start": 194194,
+        "end": 205606,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8636376261711121,
+        "speaker": null
+    },
+    {
+        "text": "Plus, the way Samsung's Blue light filter is implemented on this phone looks pretty unnatural, especially under dark mode.",
+        "start": 205738,
+        "end": 212338,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7275198698043823,
+        "speaker": null
+    },
+    {
+        "text": "We have thoroughly struggled with outdoor visibility on this thing as well, since it simply cannot get bright enough under harsh lighting conditions.",
+        "start": 212434,
+        "end": 219562,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7636692523956299,
+        "speaker": null
+    },
+    {
+        "text": "Another thing is viewing angle is not the widest either, and the A 33 easily has one of the worst cases of grayscale inversion I've come across in a smartphone recently.",
+        "start": 219706,
+        "end": 229930,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.936549961566925,
+        "speaker": null
+    },
+    {
+        "text": "It's like it has a preapplied privacy screen protector, but one that does not really work.",
+        "start": 230050,
+        "end": 235506,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.859521746635437,
+        "speaker": null
+    },
+    {
+        "text": "Samsung has, however, optimized the adaptive 90 Hz refresh rate on the 823 quite aggressively.",
+        "start": 235628,
+        "end": 241714,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7771005630493164,
+        "speaker": null
+    },
+    {
+        "text": "Well, and it's Y one L one certified too, which means you can enjoy HD streaming on Netflix and Amazon Prime without any trouble.",
+        "start": 241762,
+        "end": 250582,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9543312788009644,
+        "speaker": null
+    },
+    {
+        "text": "Adding to the media consumption experience is a single down firing speaker.",
+        "start": 250726,
+        "end": 255046,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8140847086906433,
+        "speaker": null
+    },
+    {
+        "text": "While it can get fairly loud enough, motor speaker for a phone of this price is clearly not right.",
+        "start": 255178,
+        "end": 261762,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7286818027496338,
+        "speaker": null
+    },
+    {
+        "text": "As a result, listening to anything with a wide sound stage is not an enjoyable experience here, and it also sounds a bit shrill and distorted at full volumes onto the performance.",
+        "start": 261896,
+        "end": 273178,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9573510885238647,
+        "speaker": null
+    },
+    {
+        "text": "Samsung has used Snapdragon 684 G chipset in the Galaxy A 23, the same chip we saw on a much cheaper Redmi Note Eleven and the VM Nine.",
+        "start": 273274,
+        "end": 282030,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6864557862281799,
+        "speaker": null
+    },
+    {
+        "text": "I already have a good idea about what to expect here.",
+        "start": 282080,
+        "end": 285486,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8213737607002258,
+        "speaker": null
+    },
+    {
+        "text": "We have used the base 464 GB variant of the phone, and it has handled most of my regular everyday chores quite all right.",
+        "start": 285548,
+        "end": 293874,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8799416422843933,
+        "speaker": null
+    },
+    {
+        "text": "It's just that four GB of Ram is not enough to deliver efficient multitasking on full fledged One UI 4.1 that it's running on, so you will encounter a few stutters here and there based on Android Twelve.",
+        "start": 294032,
+        "end": 307122,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5181047320365906,
+        "speaker": null
+    },
+    {
+        "text": "This Android skin is an absolute delight to use, though, from its excellent optimization to all available customisation options.",
+        "start": 307196,
+        "end": 315090,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9884071946144104,
+        "speaker": null
+    },
+    {
+        "text": "The software side of things is pretty solid on the Galaxy A 23, and Samsung has promised two years of Android and four years of security updates for this phone, which is still commendable if you ask me.",
+        "start": 315260,
+        "end": 327846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.974801242351532,
+        "speaker": null
+    },
+    {
+        "text": "As for gaming, the Galaxy A 23 maxes out adjust smooth graphics and high frame rates, and PUBG Mobile under this, the phone manages a fairly stable 30 FPS with minor frame drops every now and then.",
+        "start": 327968,
+        "end": 339810,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6378885507583618,
+        "speaker": null
+    },
+    {
+        "text": "You can push it to balance graphics and medium frame rates, but the overall gameplay is noticeably worse under these settings.",
+        "start": 339980,
+        "end": 347722,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8498679399490356,
+        "speaker": null
+    },
+    {
+        "text": "Likewise, Call of Duty Mobile maxes out at low graphics and high frame rates, where the 823 swings between 40 to 50 FPS in general, but the game dips to as low as 28 FPS sometimes.",
+        "start": 347866,
+        "end": 360846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.70745849609375,
+        "speaker": null
+    },
+    {
+        "text": "I noticed the phone getting mildly warm next to the camera module after six to eight minutes into the game as well.",
+        "start": 361028,
+        "end": 367566,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8132234215736389,
+        "speaker": null
+    },
+    {
+        "text": "But relatively less demanding games like Mobile Legends give a pretty smooth 60 FPS gameplay alongside cooler temperatures.",
+        "start": 367688,
+        "end": 375262,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7247682809829712,
+        "speaker": null
+    },
+    {
+        "text": "Samsung has also optimized the Galaxy A 23 to run high FPS games like Megarina and Injustice Two.",
+        "start": 375406,
+        "end": 382626,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6720812916755676,
+        "speaker": null
+    },
+    {
+        "text": "But because of such an underpowerful processor, the Four does not hit the 90 FPS mark in either game and hovers around 60 to 70 FPS instead.",
+        "start": 382748,
+        "end": 392634,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5198057293891907,
+        "speaker": null
+    },
+    {
+        "text": "Moving on, Samsung has tried to emulate a premium design on the Galaxy 23.",
+        "start": 392792,
+        "end": 398250,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6344245076179504,
+        "speaker": null
+    },
+    {
+        "text": "Everything from its camera module to the color options is similar to the rest of the ACD's phones this year.",
+        "start": 398360,
+        "end": 404490,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.811456561088562,
+        "speaker": null
+    },
+    {
+        "text": "Unlike the more expensive ACDs phone, which has this matte back and matt frames, the 823 has glossy all over.",
+        "start": 404600,
+        "end": 413058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5297620892524719,
+        "speaker": null
+    },
+    {
+        "text": "There's no IP certification of any sort too, and its SIM tray also stays without a protective rubber gasket.",
+        "start": 413204,
+        "end": 419842,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6703136563301086,
+        "speaker": null
+    },
+    {
+        "text": "Still, in all, the phone is pretty well built.",
+        "start": 419986,
+        "end": 421890,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9396443367004395,
+        "speaker": null
+    },
+    {
+        "text": "With the right amount of help, the weight distribution could have been more even, but that was not a very big deal to me.",
+        "start": 421940,
+        "end": 429474,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6494123935699463,
+        "speaker": null
+    },
+    {
+        "text": "For Biometrics, there is a fingerprint reader mounted onto the power button on the side, which is admirably fast enough.",
+        "start": 429572,
+        "end": 436638,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7672593593597412,
+        "speaker": null
+    },
+    {
+        "text": "Finally, the battery life on this thing is great.",
+        "start": 436784,
+        "end": 439998,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9709615707397461,
+        "speaker": null
+    },
+    {
+        "text": "Samsung says that this is a two day battery phone, and that's 100% true under medium to heavy usage, consisting of browsing social media, apps, gaming, and even running some power hungry benchmarks.",
+        "start": 440144,
+        "end": 452002,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8128421306610107,
+        "speaker": null
+    },
+    {
+        "text": "We were getting seven to 8 hours of screen on time on average.",
+        "start": 452086,
+        "end": 456274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8947350382804871,
+        "speaker": null
+    },
+    {
+        "text": "Just take a look at this.",
+        "start": 456442,
+        "end": 457950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8327293992042542,
+        "speaker": null
+    },
+    {
+        "text": "PC Marks Battery endurance Benchmark On the other hand, this phone supports up to 25 W power charging, although you only get a 15 watt power brick inside the box, which comes with a type A port.",
+        "start": 458000,
+        "end": 469998,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6227174997329712,
+        "speaker": null
+    },
+    {
+        "text": "And if you want to use the 25 watt charger, you will need to buy a 25 watt brick as well as a Type C to type C data cable, because Samsung has shipped a Type A to type C cable here.",
+        "start": 470144,
+        "end": 482060,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7768264412879944,
+        "speaker": null
+    },
+    {
+        "text": "Okay, let's wrap up this review like I spoiled it at the very beginning.",
+        "start": 485130,
+        "end": 489626,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7698165774345398,
+        "speaker": null
+    },
+    {
+        "text": "The galaxy.",
+        "start": 489698,
+        "end": 490322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6567178964614868,
+        "speaker": null
+    },
+    {
+        "text": "A 23 is a travesty.",
+        "start": 490346,
+        "end": 492902,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9505969882011414,
+        "speaker": null
+    },
+    {
+        "text": "I guess you can argue that it has a few notable qualities like an attractive design, optimized software, and solid battery life.",
+        "start": 493046,
+        "end": 500146,
+        "sentiment": "POSITIVE",
+        "confidence": 0.90420001745224,
+        "speaker": null
+    },
+    {
+        "text": "But the overall value that anyone is looking for while buying a midrange phone is just not there with this one.",
+        "start": 500268,
+        "end": 507190,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.565222442150116,
+        "speaker": null
+    },
+    {
+        "text": "So if you want a well rounded phone in general, then the Poco X Four Pro and the Galaxy S 23 that we recently reviewed are a couple of terrific choices.",
+        "start": 507300,
+        "end": 515762,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9638525247573853,
+        "speaker": null
+    },
+    {
+        "text": "One stock Android experience.",
+        "start": 515906,
+        "end": 517738,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6230879426002502,
+        "speaker": null
+    },
+    {
+        "text": "There's the Motor G 71, looking for the most powerful phone for the price?",
+        "start": 517884,
+        "end": 521974,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6091469526290894,
+        "speaker": null
+    },
+    {
+        "text": "Check out the real me nine Se.",
+        "start": 522072,
+        "end": 523738,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8726645112037659,
+        "speaker": null
+    },
+    {
+        "text": "So what I'm trying to say is there are simply so many better options out there for everyone, and unless you get some really heavy discount on the Galaxy A 23, you should definitely stay far away from it.",
+        "start": 523884,
+        "end": 537406,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4633350670337677,
+        "speaker": null
+    },
+    {
+        "text": "So guys, that was all for a full review of the Samsung Galaxy what do you think about the phone?",
+        "start": 537528,
+        "end": 543286,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5749285817146301,
+        "speaker": null
+    },
+    {
+        "text": "Do let us know in the comments below and follow us for more tech related contents like this one.",
+        "start": 543348,
+        "end": 548986,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7198394536972046,
+        "speaker": null
+    },
+    {
+        "text": "Till then, I'm Rati Vadikari, and thank you so much for watching.",
+        "start": 549048,
+        "end": 551500,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9382312297821045,
+        "speaker": null
+    }
+]
